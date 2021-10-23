@@ -1,6 +1,6 @@
 # RTask
 
-RTask 是 Golang 一款基于 Redis 和 Cron 的简易任务队列。
+RTask 是 Golang 一款基于 Redis 和 Cron 的定时任务队列。
 
 ## 快速上手
 
