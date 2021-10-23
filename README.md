@@ -64,4 +64,4 @@ func main() {
 
 ## 许可协议
 
-MIT License.
+MIT License
